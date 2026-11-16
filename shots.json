@@ -1,6 +1,6 @@
 [
-  { "name": "01-cover.jpg", "query": "?shot=play&seed=7", "note": "mid-firefight: muzzle flash, tracers, hit sparks, combo HUD" },
-  { "name": "02-horde.jpg", "query": "?shot=horde&seed=7", "note": "wave 6 heavy contact: brute plus mixed archetypes" },
-  { "name": "03-title.jpg", "query": "?shot=start&seed=7", "note": "title screen over a live arena, weapon lowered" },
-  { "name": "04-death.jpg", "query": "?shot=end&seed=7", "note": "death screen with score, best, wave, kills, accuracy, time" }
+  { "name": "01-firefight.jpg", "query": "?shot=fire&seed=7", "note": "mid-round contact in Site A: muzzle flash, tracer, hit sparks, full HUD" },
+  { "name": "02-buy.jpg", "query": "?shot=buy&seed=7", "note": "buy phase: the armoury, with rifle, SMG, shotgun, armour and defuse kit" },
+  { "name": "03-plant.jpg", "query": "?shot=plant&seed=7", "note": "charge planted: a teammate defusing, fuse clock and objective bar" },
+  { "name": "04-match-end.jpg", "query": "?shot=end&seed=7", "note": "match result: 8-4, round strip and personal stats" }
 ]

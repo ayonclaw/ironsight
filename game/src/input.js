@@ -5,6 +5,7 @@
 const MOVE_KEYS = new Set([
   'KeyW', 'KeyA', 'KeyS', 'KeyD', 'Space',
   'ShiftLeft', 'ShiftRight', 'ControlLeft', 'ControlRight', 'KeyC',
+  'KeyE', 'KeyB', 'KeyR', 'KeyQ', 'Tab', 'Digit1', 'Digit2', 'Digit3', 'Digit4',
 ]);
 
 export function createInput(canvas, onLockChange) {
