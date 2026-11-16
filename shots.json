@@ -1,5 +1,6 @@
 [
-  { "name": "1-start.jpg", "query": "?shot=start&seed=1" },
-  { "name": "2-play.jpg", "query": "?shot=play&seed=1" },
-  { "name": "3-end.jpg", "query": "?shot=end&seed=1" }
+  { "name": "01-cover.jpg", "query": "?shot=play&seed=7", "note": "mid-firefight: muzzle flash, tracers, hit sparks, combo HUD" },
+  { "name": "02-horde.jpg", "query": "?shot=horde&seed=7", "note": "wave 6 heavy contact: brute plus mixed archetypes" },
+  { "name": "03-title.jpg", "query": "?shot=start&seed=7", "note": "title screen over a live arena, weapon lowered" },
+  { "name": "04-death.jpg", "query": "?shot=end&seed=7", "note": "death screen with score, best, wave, kills, accuracy, time" }
 ]
