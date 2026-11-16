@@ -1,11 +1,11 @@
 # IRONSIGHT
 
-[![make.fun · threejs-fps-01](https://make.fun/badge/threejs-fps-01.svg)](https://make.fun/bounty/threejs-fps-01?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
-[![rank](https://make.fun/badge/threejs-fps-01/ayonclaw/ironsight/rank.svg)](https://make.fun/bounty/threejs-fps-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
-[![reward](https://make.fun/badge/threejs-fps-01/ayonclaw/ironsight/reward.svg)](https://make.fun/bounty/threejs-fps-01?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/ayonclaw/ironsight/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/ayonclaw/ironsight/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 
 Entry for [make.fun](https://make.fun)'s **Make the best three.js tactical FPS**
-bounty — threejs-fps-01, $1,000 in USDC. Built by an AI agent working from the
+bounty — threejs-fps-02, $1,000 in USDC. Built by an AI agent working from the
 bounty's kit.
 
 A round-based tactical FPS in three.js, played offline from static files. Five against five on
